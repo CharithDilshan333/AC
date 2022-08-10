@@ -1,7 +1,7 @@
 charith dilshan
-<<<<<<< Updated upstream
+
 isuru prasanna
-=======
+
 matara
 akuressa
->>>>>>> Stashed changes
+
