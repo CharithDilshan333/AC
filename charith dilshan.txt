@@ -7,4 +7,8 @@ akuressa
 asdfgh
 ffffff
 asdfgh
+<<<<<<< HEAD
 sanuri
+=======
+acira matta
+>>>>>>> 8937a139d395c1743958c199d72cfe2cefc68eaa
